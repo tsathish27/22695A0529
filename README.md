@@ -1,7 +1,8 @@
 task 1 :
 Api url - http://127.0.0.1:8000/api/categories/mobile/products/1/
 
-![image](https://github.com/user-attachments/assets/aa24e495-2956-4bfc-aa20-3896a19564ad)
+![image](https://github.com/user-attachments/assets/c9e59538-5bcc-42cc-bad5-7f031cd45049)
+
 
 
 
